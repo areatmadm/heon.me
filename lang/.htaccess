@@ -1,0 +1,4 @@
+php_flag register_globals on
+order deny,allow
+deny from all
+allow from areatm.com
