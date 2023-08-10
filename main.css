@@ -1,0 +1,58 @@
+@import url("animation.css");
+
+body {
+	height: 100%;
+	margin: 0;
+	background-image: url("https://heon.me/ERNh_FXVAAEZ0sC.png");
+	background-size: cover;
+	background-attachment: fixed;
+	text-align: center;
+	width: 100%;
+}
+
+h1 {
+	font-size: 56px;
+  font-family: Palatino, 'Palatino Linotype', serif;
+  color: rgb(177,255,212);
+}
+
+h2 {
+	font-size: 7rem;
+}
+
+.appo {
+	margin: 0;
+}
+
+.hero {
+	padding: 120px 0;
+	margin: 0;
+	
+	font-family: 'Trebuchet MS', Helvetica, sans-serif;
+	color: #ffffff
+}
+
+.prof {
+    width: 150px;
+    height: 150px; 
+    border-radius: 70%;
+    overflow: hidden;
+	margin: -50px;
+	padding: 50px 0;
+}
+
+
+
+p {
+  font-size: 2rem;
+}
+
+.hero a {
+	color: #00FFAA;
+	font-size: 1.75rem;
+	text-decoration: none;
+}
+
+#footer {
+  font-size: 0.75rem;
+}
